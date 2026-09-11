@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://poliana-bicharra-consultoria.vercel.app/sitemap.xml
